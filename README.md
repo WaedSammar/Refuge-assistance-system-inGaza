@@ -10,7 +10,7 @@ The project makes use of different data structures such as **ArrayList**, **Queu
 
 - **AddRefuge**  
   Receives an `ArrayList` of Refuge objects and allows the user to enter new refugee information  
-  (Name, Age, Location, Number).
+  (Name, Age, Location, Number)
 
 - **sortRefugeesByRefNum**  
   Sorts the refugee information based on the number of refugees.
